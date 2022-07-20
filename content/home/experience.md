@@ -26,7 +26,7 @@ experience:
   - title: Scientific Programmer
     company: QuantStack
     company_url: 'https://www.quantstack.net'
-    company_logo: org-x
+    company_logo: quantstack
     location: Paris/Berlin
     date_start: '2021-01-01'
     date_end: ''
@@ -41,28 +41,28 @@ experience:
   - title: Backend Developer
     company: Quality Match
     company_url: 'https://www.quality-match.com/'
-    company_logo: org-x
+    company_logo: qm
     location: Heidelberg
-    date_start: '2021-01-01'
-    date_end: '2020-01-01'
+    date_start: '2020-01-01'
+    date_end: '2021-01-01'
     description: Implemented a backend for labeling / crowd-sourcing tool.
 
   - title: Bioinformatician
     company: EMBL
     company_url: 'https://www.embl.org/sites/heidelberg/'
-    company_logo: org-x
+    company_logo: embl
     location: Heidelberg
-    date_start: '2020-01-01'
-    date_end: '2019-01-01'
+    date_start: '2019-01-01'
+    date_end: '2020-01-01'
     description: Maintained https://kipoi.org/
 
   - title: Digital Image Processing Specialist
     company: Heidelberg Engineering
     company_url: 'https://www.heidelbergengineering.com'
-    company_logo: org-x
+    company_logo: heidelberg_engineering
     location: Heidelberg
-    date_start: '2019-01-01'
-    date_end: '2018-01-01'
+    date_start: '2018-01-01'
+    date_end: '2019-01-01'
     description: Implemented algorithms for ophthalmology.
 
 design:
