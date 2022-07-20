@@ -70,7 +70,7 @@ image:
 #   Otherwise, set `projects: []`.
 # projects:
 #   - example
-events:
+event:
     - eccv_2016
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -79,6 +79,11 @@ events:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+[Watch the Talk]({{< ref "event/eccv_2016/index.md" >}} "Watch the Talk")
+
+
+
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.

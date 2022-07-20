@@ -5,10 +5,9 @@ title: 'The Lazy Flipper: Efficient Depth-Limited Exhaustive Search in Discrete 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Bjoern Andres
   - Jorg H. Kappes
-  - Thorsten Beier
+  - admin
   - Ullrich Koethe
   - Fred A. Hamprecht
 
@@ -17,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2011-11-06T00:00:00Z'
+date: '2012-11-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2011-11-06T00:00:00Z'
+publishDate: '2012-11-06T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +29,8 @@ publishDate: '2011-11-06T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In 2011 International Conference on Computer Vision
-publication_short: In ICCV
+publication: 2012 - 12th European Conference on Computer Vision
+publication_short: In ECCV
 
 abstract: "We propose a novel graphical model for probabilistic image segmentation that contributes both to aspects of perceptual grouping in connection with image segmentation, and
 to globally optimal inference with higher-order graphical

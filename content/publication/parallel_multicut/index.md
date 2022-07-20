@@ -1,5 +1,5 @@
 ---
-title: 'Asymmetric Cuts: Joint Image Labeling and Partitioning'
+title: 'Parallel Multicut Segmentation via Dual Decomposition'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

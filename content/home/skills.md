@@ -16,24 +16,48 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: python
+  - icon: cpp
+    icon_pack: custom
+    name: C++
+
+  - icon: python
     icon_pack: fab
     name: Python
 
-  - description: 90%
-    icon: c
-    icon_pack: fab
-    name: C/C++
+  - icon: latex
+    icon_pack: custom
+    name: LaTex
 
-  - description: 100%
-    icon: chart-line
+
+  - icon: wasm
+    icon_pack: custom
+    name: Wasm
+
+  - icon: conda_logo
+    icon_pack: custom
+    name: conda
+
+  - icon: jupyter
+    icon_pack: custom
+    name: Jupyter
+
+  - icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+
+  - icon: calculator
     icon_pack: fas
-    name: Photography
+    name: Discrete Optimization
+    
+  - icon: atom
+    icon_pack: fas
+    name: Physics
+
+
+
+
+
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

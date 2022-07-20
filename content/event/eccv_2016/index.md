@@ -60,10 +60,11 @@ url_video: 'http://videolectures.net/eccv2016_beier_efficient_fusion/'
 # projects:
 #   - lifted_multicut
 ---
-
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
  -->
 <!-- Slides can be added in a few ways: -->
 
+
+[Read the Publication]({{< ref "publication/efficient_fusion_move/index.md" >}} "Read the Publication")
