@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Thorsten Beier</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>Dr. Thorsten Beier</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Dr. Thorsten Beier</title><link>https://example.com/</link></image><item><title>Mamba meets JupyterLite</title><link>https://example.com/post/mamba-meets-jupyterlite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://example.com/post/mamba-meets-jupyterlite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8" target="_blank" rel="noopener">https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8&lt;/a>&lt;/p></description></item><item><title>Xeus-Lite</title><link>https://example.com/post/xeus-lite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://example.com/post/xeus-lite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/xeus-lite-379e96bb199d" target="_blank" rel="noopener">https://blog.jupyter.org/xeus-lite-379e96bb199d&lt;/a>&lt;/p></description></item><item><title>Jupyter-Games</title><link>https://example.com/post/jupyter-games/</link><pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate><guid>https://example.com/post/jupyter-games/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/jupyter-games-cda20dc15a21" target="_blank" rel="noopener">https://blog.jupyter.org/jupyter-games-cda20dc15a21&lt;/a>&lt;/p></description></item><item><title>JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python</title><link>https://example.com/talk/jupyterlite-jupyter-webassembly-python/</link><pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate><guid>https://example.com/talk/jupyterlite-jupyter-webassembly-python/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/</link><atom:link href="https://derthorsten.github.io/page/index.xml" rel="self" type="application/rss+xml"/><description>Dr. Thorsten Beier</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://derthorsten.github.io/page/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/</link></image><item><title>Mamba meets JupyterLite</title><link>https://derthorsten.github.io/page/post/mamba-meets-jupyterlite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/mamba-meets-jupyterlite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8" target="_blank" rel="noopener">https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8&lt;/a>&lt;/p></description></item><item><title>Xeus-Lite</title><link>https://derthorsten.github.io/page/post/xeus-lite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/xeus-lite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/xeus-lite-379e96bb199d" target="_blank" rel="noopener">https://blog.jupyter.org/xeus-lite-379e96bb199d&lt;/a>&lt;/p></description></item><item><title>Jupyter-Games</title><link>https://derthorsten.github.io/page/post/jupyter-games/</link><pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/jupyter-games/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/jupyter-games-cda20dc15a21" target="_blank" rel="noopener">https://blog.jupyter.org/jupyter-games-cda20dc15a21&lt;/a>&lt;/p></description></item><item><title>JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python</title><link>https://derthorsten.github.io/page/talk/jupyterlite-jupyter-webassembly-python/</link><pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/talk/jupyterlite-jupyter-webassembly-python/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Slides can be added in a few ways: --></description></item><item><title>From Jupyter to the Moon</title><link>https://example.com/post/from-jupyter-to-the-moon/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/post/from-jupyter-to-the-moon/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8" target="_blank" rel="noopener">https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8&lt;/a>&lt;/p></description></item><item><title>Ilastik: interactive machine learning for (bio) image analysis</title><link>https://example.com/publication/ilastik/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://example.com/publication/ilastik/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;!-- Slides can be added in a few ways: --></description></item><item><title>From Jupyter to the Moon</title><link>https://derthorsten.github.io/page/post/from-jupyter-to-the-moon/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/from-jupyter-to-the-moon/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8" target="_blank" rel="noopener">https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8&lt;/a>&lt;/p></description></item><item><title>Ilastik: interactive machine learning for (bio) image analysis</title><link>https://derthorsten.github.io/page/publication/ilastik/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/ilastik/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -15,7 +15,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>The Kipoi repository accelerates community exchange and reuse of predictive models for genomics</title><link>https://example.com/publication/kipoi/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://example.com/publication/kipoi/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>The Kipoi repository accelerates community exchange and reuse of predictive models for genomics</title><link>https://derthorsten.github.io/page/publication/kipoi/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/kipoi/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -26,7 +26,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Slides</title><link>https://example.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://example.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+--></description></item><item><title>Slides</title><link>https://derthorsten.github.io/page/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -137,7 +137,7 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Neuron segmentation with high-level biological priors</title><link>https://example.com/publication/neuron_segmentation_with/</link><pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/neuron_segmentation_with/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Neuron segmentation with high-level biological priors</title><link>https://derthorsten.github.io/page/publication/neuron_segmentation_with/</link><pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/neuron_segmentation_with/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -148,7 +148,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Multicut brings automated neurite segmentation closer to human performance</title><link>https://example.com/publication/multicut_brings_automated_segmentation/</link><pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/multicut_brings_automated_segmentation/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>Multicut brings automated neurite segmentation closer to human performance</title><link>https://derthorsten.github.io/page/publication/multicut_brings_automated_segmentation/</link><pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/multicut_brings_automated_segmentation/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -159,7 +159,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Solving large multicut problems for connectomics via domain decomposition</title><link>https://example.com/publication/solving_large_scale/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/solving_large_scale/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>Solving large multicut problems for connectomics via domain decomposition</title><link>https://derthorsten.github.io/page/publication/solving_large_scale/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/solving_large_scale/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -170,14 +170,14 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>An efficient fusion move algorithm for the minimum cost lifted multicut problem</title><link>https://example.com/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/</link><pubDate>Sat, 08 Oct 2016 11:00:00 +0000</pubDate><guid>https://example.com/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>An efficient fusion move algorithm for the minimum cost lifted multicut problem</title><link>https://derthorsten.github.io/page/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/</link><pubDate>Sat, 08 Oct 2016 11:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
 &lt;/div>
 -->
 &lt;!-- Slides can be added in a few ways: -->
-&lt;p>&lt;a href="https://example.com/publication/efficient_fusion_move/" title="Read the Publication">Read the Publication&lt;/a>&lt;/p></description></item><item><title>An efficient fusion move algorithm for the minimum cost lifted multicut problem</title><link>https://example.com/publication/efficient_fusion_move/</link><pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate><guid>https://example.com/publication/efficient_fusion_move/</guid><description>&lt;p>&lt;a href="https://example.com/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/" title="Watch the Talk">Watch the Talk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://derthorsten.github.io/page/publication/efficient_fusion_move/" title="Read the Publication">Read the Publication&lt;/a>&lt;/p></description></item><item><title>An efficient fusion move algorithm for the minimum cost lifted multicut problem</title><link>https://derthorsten.github.io/page/publication/efficient_fusion_move/</link><pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/efficient_fusion_move/</guid><description>&lt;p>&lt;a href="https://derthorsten.github.io/page/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/" title="Watch the Talk">Watch the Talk&lt;/a>&lt;/p>
 &lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -189,30 +189,30 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>JupyterLite</title><link>https://example.com/project/emscripten-forge/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/emscripten-forge/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+--></description></item><item><title>JupyterLite</title><link>https://derthorsten.github.io/page/project/emscripten-forge/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/emscripten-forge/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
 &lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
 width="100%"
 height="500px"
->&lt;/iframe></description></item><item><title>nifty</title><link>https://example.com/project/nifty/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
+>&lt;/iframe></description></item><item><title>nifty</title><link>https://derthorsten.github.io/page/project/nifty/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
 &lt;ul>
 &lt;li>graph based image processing&lt;/li>
 &lt;li>multicut objective&lt;/li>
 &lt;li>lifted multicut objective&lt;/li>
 &lt;li>agglomerative clustering&lt;/li>
 &lt;/ul>
-&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item><item><title>OpenGM</title><link>https://example.com/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/opengm/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item><item><title>OpenGM</title><link>https://derthorsten.github.io/page/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/opengm/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
 &lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
 width="100%"
 height="500px"
->&lt;/iframe></description></item><item><title>pyb2d</title><link>https://example.com/project/pyb2d/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/pyb2d/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+>&lt;/iframe></description></item><item><title>pyb2d</title><link>https://derthorsten.github.io/page/project/pyb2d/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/pyb2d/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
 &lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
 width="100%"
 height="500px"
->&lt;/iframe></description></item><item><title>xeus-lite</title><link>https://example.com/project/xeus-lite/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+>&lt;/iframe></description></item><item><title>xeus-lite</title><link>https://derthorsten.github.io/page/project/xeus-lite/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
 &lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
 width="100%"
 height="500px"
->&lt;/iframe></description></item><item><title>Improving 3D EM data segmentation by joint optimization over boundary evidence and biological priors</title><link>https://example.com/publication/improving_3d/</link><pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/improving_3d/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+>&lt;/iframe></description></item><item><title>Improving 3D EM data segmentation by joint optimization over boundary evidence and biological priors</title><link>https://derthorsten.github.io/page/publication/improving_3d/</link><pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/improving_3d/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -223,7 +223,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Asymmetric Cuts: Joint Image Labeling and Partitioning</title><link>https://example.com/publication/asymetric_cuts/</link><pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/asymetric_cuts/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>Asymmetric Cuts: Joint Image Labeling and Partitioning</title><link>https://derthorsten.github.io/page/publication/asymetric_cuts/</link><pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/asymetric_cuts/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -234,7 +234,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Fusion moves for correlation clustering</title><link>https://example.com/publication/fusion_moves_for_correlation_clustering/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/fusion_moves_for_correlation_clustering/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>Fusion moves for correlation clustering</title><link>https://derthorsten.github.io/page/publication/fusion_moves_for_correlation_clustering/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/fusion_moves_for_correlation_clustering/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -245,7 +245,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Parallel Multicut Segmentation via Dual Decomposition</title><link>https://example.com/publication/parallel_multicut/</link><pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/parallel_multicut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>Parallel Multicut Segmentation via Dual Decomposition</title><link>https://derthorsten.github.io/page/publication/parallel_multicut/</link><pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/parallel_multicut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -256,7 +256,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>MAP-inference on large scale higher-order discrete graphical models by fusion moves</title><link>https://example.com/publication/map_inference/</link><pubDate>Sat, 06 Sep 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/map_inference/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>MAP-inference on large scale higher-order discrete graphical models by fusion moves</title><link>https://derthorsten.github.io/page/publication/map_inference/</link><pubDate>Sat, 06 Sep 2014 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/map_inference/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -267,7 +267,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Cut, glue &amp; cut: A fast, approximate solver for multicut partitioning</title><link>https://example.com/publication/cut_glue_and_cut/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/cut_glue_and_cut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>Cut, glue &amp; cut: A fast, approximate solver for multicut partitioning</title><link>https://derthorsten.github.io/page/publication/cut_glue_and_cut/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/cut_glue_and_cut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -278,7 +278,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>The Lazy Flipper: Efficient Depth-Limited Exhaustive Search in Discrete Graphical Models</title><link>https://example.com/publication/lazy_flipper/</link><pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate><guid>https://example.com/publication/lazy_flipper/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>The Lazy Flipper: Efficient Depth-Limited Exhaustive Search in Discrete Graphical Models</title><link>https://derthorsten.github.io/page/publication/lazy_flipper/</link><pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/lazy_flipper/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -289,7 +289,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>OpenGM: A C++ library for discrete graphical models</title><link>https://example.com/publication/opengm/</link><pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate><guid>https://example.com/publication/opengm/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>OpenGM: A C++ library for discrete graphical models</title><link>https://derthorsten.github.io/page/publication/opengm/</link><pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/opengm/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -300,7 +300,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Probabilistic Image Segmentation with Closedness Constraints</title><link>https://example.com/publication/probabilistic_image_segmentation/</link><pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate><guid>https://example.com/publication/probabilistic_image_segmentation/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>Probabilistic Image Segmentation with Closedness Constraints</title><link>https://derthorsten.github.io/page/publication/probabilistic_image_segmentation/</link><pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/probabilistic_image_segmentation/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -311,4 +311,4 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title/><link>https://example.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/admin/config.yml</guid><description/></item></channel></rss>
+--></description></item><item><title/><link>https://derthorsten.github.io/page/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/admin/config.yml</guid><description/></item></channel></rss>
