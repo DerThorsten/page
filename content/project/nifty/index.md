@@ -1,8 +1,11 @@
 ---
-title: JupyterLite
-summary: An example of using the in-built project page.
+title: nifty
+summary: A C++ / Python library for graph based image processing, solving the multicut and lifted multicut objective, and agglomerative clustering.
 tags:
-  - Deep Learning
+  - Discrete Optimization
+  - Multicut
+  - Lifted Multicut
+  - Agglomerative Clustering
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -12,24 +15,17 @@ external_link: ''
 #   # caption: Photo by rawpixel on Unsplash
 #   # focal_point: Smart
 
-links:
+# links:
 
-  - icon: gitub
-    icon_pack: fab
-    name: code
-    url: https://github.com/pyb2d/pyb2d
+#   - icon: gitub
+#     icon_pack: fab
+#     name: code
+#     url: https://github.com/DerThorsten/nifty
 
-  - icon: jupyter
-    icon_pack: custom
-    name: Try in JupyterLite
-    url: https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb
+  
 
-  - icon: jupyter
-    icon_pack: custom
-    name: Try in Jupyter
-    url: https://mybinder.org/v2/gh/pyb2d/pyb2d/main?urlpath=/lab/tree/examples/jupyter_integration.ipynb
+url_code: 'https://github.com/DerThorsten/nifty'
 
-url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -42,10 +38,10 @@ url_video: ''
 # slides: example
 ---
 
+Nifty is a C++ library for:
+ * graph based image processing
+ * multicut objective
+ * lifted multicut objective
+ * agglomerative clustering
 
-The demo below might not work in an incognito/private browser tab:
-<iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-  width="100%"
-  height="500px"
-></iframe>
-
+I implemented nifty when I did my PhD since my research was focused on the topics above.

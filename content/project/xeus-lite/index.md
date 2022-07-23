@@ -1,5 +1,5 @@
 ---
-title: pyb2d
+title: xeus-lite
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
