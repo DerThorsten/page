@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning | Dr. Thorsten Beier</title><link>https://example.com/tag/deep-learning/</link><atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml"/><description>Deep Learning</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Deep Learning</title><link>https://example.com/tag/deep-learning/</link></image><item><title>JupyterLite</title><link>https://example.com/project/emscripten-forge/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/emscripten-forge/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>OpenGM</title><link>https://example.com/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/opengm/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>pyb2d</title><link>https://example.com/project/pyb2d/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/pyb2d/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>xeus-lite</title><link>https://example.com/project/xeus-lite/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item></channel></rss>

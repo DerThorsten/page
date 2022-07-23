@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1 | Dr. Thorsten Beier</title><link>https://example.com/publication-type/1/</link><atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml"/><description>1</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>1</title><link>https://example.com/publication-type/1/</link></image><item><title>Solving large multicut problems for connectomics via domain decomposition</title><link>https://example.com/publication/solving_large_scale/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/solving_large_scale/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>An efficient fusion move algorithm for the minimum cost lifted multicut problem</title><link>https://example.com/publication/efficient_fusion_move/</link><pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate><guid>https://example.com/publication/efficient_fusion_move/</guid><description>&lt;p>&lt;a href="https://example.com/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/" title="Watch the Talk">Watch the Talk&lt;/a>&lt;/p>
+&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Improving 3D EM data segmentation by joint optimization over boundary evidence and biological priors</title><link>https://example.com/publication/improving_3d/</link><pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/improving_3d/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Asymmetric Cuts: Joint Image Labeling and Partitioning</title><link>https://example.com/publication/asymetric_cuts/</link><pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/asymetric_cuts/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Fusion moves for correlation clustering</title><link>https://example.com/publication/fusion_moves_for_correlation_clustering/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/fusion_moves_for_correlation_clustering/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>MAP-inference on large scale higher-order discrete graphical models by fusion moves</title><link>https://example.com/publication/map_inference/</link><pubDate>Sat, 06 Sep 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/map_inference/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Cut, glue &amp; cut: A fast, approximate solver for multicut partitioning</title><link>https://example.com/publication/cut_glue_and_cut/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/cut_glue_and_cut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>The Lazy Flipper: Efficient Depth-Limited Exhaustive Search in Discrete Graphical Models</title><link>https://example.com/publication/lazy_flipper/</link><pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate><guid>https://example.com/publication/lazy_flipper/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Probabilistic Image Segmentation with Closedness Constraints</title><link>https://example.com/publication/probabilistic_image_segmentation/</link><pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate><guid>https://example.com/publication/probabilistic_image_segmentation/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item></channel></rss>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Thorsten Beier</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>Dr. Thorsten Beier</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Dr. Thorsten Beier</title><link>https://example.com/</link></image><item><title>Mamba meets JupyterLite</title><link>https://example.com/post/mamba-meets-jupyterlite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://example.com/post/mamba-meets-jupyterlite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8" target="_blank" rel="noopener">https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8&lt;/a>&lt;/p></description></item><item><title>Xeus-Lite</title><link>https://example.com/post/xeus-lite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://example.com/post/xeus-lite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/xeus-lite-379e96bb199d" target="_blank" rel="noopener">https://blog.jupyter.org/xeus-lite-379e96bb199d&lt;/a>&lt;/p></description></item><item><title>Jupyter-Games</title><link>https://example.com/post/jupyter-games/</link><pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate><guid>https://example.com/post/jupyter-games/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/jupyter-games-cda20dc15a21" target="_blank" rel="noopener">https://blog.jupyter.org/jupyter-games-cda20dc15a21&lt;/a>&lt;/p></description></item><item><title>JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python</title><link>https://example.com/talk/jupyterlite-jupyter-webassembly-python/</link><pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate><guid>https://example.com/talk/jupyterlite-jupyter-webassembly-python/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Slides can be added in a few ways: --></description></item><item><title>From Jupyter to the Moon</title><link>https://example.com/post/from-jupyter-to-the-moon/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/post/from-jupyter-to-the-moon/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8" target="_blank" rel="noopener">https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8&lt;/a>&lt;/p></description></item><item><title>Ilastik: interactive machine learning for (bio) image analysis</title><link>https://example.com/publication/ilastik/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://example.com/publication/ilastik/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>The Kipoi repository accelerates community exchange and reuse of predictive models for genomics</title><link>https://example.com/publication/kipoi/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://example.com/publication/kipoi/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Slides</title><link>https://example.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://example.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Neuron segmentation with high-level biological priors</title><link>https://example.com/publication/neuron_segmentation_with/</link><pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/neuron_segmentation_with/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Multicut brings automated neurite segmentation closer to human performance</title><link>https://example.com/publication/multicut_brings_automated_segmentation/</link><pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/multicut_brings_automated_segmentation/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Solving large multicut problems for connectomics via domain decomposition</title><link>https://example.com/publication/solving_large_scale/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/solving_large_scale/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>An efficient fusion move algorithm for the minimum cost lifted multicut problem</title><link>https://example.com/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/</link><pubDate>Sat, 08 Oct 2016 11:00:00 +0000</pubDate><guid>https://example.com/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Slides can be added in a few ways: -->
+&lt;p>&lt;a href="https://example.com/publication/efficient_fusion_move/" title="Read the Publication">Read the Publication&lt;/a>&lt;/p></description></item><item><title>An efficient fusion move algorithm for the minimum cost lifted multicut problem</title><link>https://example.com/publication/efficient_fusion_move/</link><pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate><guid>https://example.com/publication/efficient_fusion_move/</guid><description>&lt;p>&lt;a href="https://example.com/talk/an-efficient-fusion-move-algorithm-for-the-minimum-cost-lifted-multicut-problem/" title="Watch the Talk">Watch the Talk&lt;/a>&lt;/p>
+&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>JupyterLite</title><link>https://example.com/project/emscripten-forge/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/emscripten-forge/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>nifty</title><link>https://example.com/project/nifty/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
+&lt;ul>
+&lt;li>graph based image processing&lt;/li>
+&lt;li>multicut objective&lt;/li>
+&lt;li>lifted multicut objective&lt;/li>
+&lt;li>agglomerative clustering&lt;/li>
+&lt;/ul>
+&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item><item><title>OpenGM</title><link>https://example.com/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/opengm/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>pyb2d</title><link>https://example.com/project/pyb2d/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/pyb2d/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>xeus-lite</title><link>https://example.com/project/xeus-lite/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>Improving 3D EM data segmentation by joint optimization over boundary evidence and biological priors</title><link>https://example.com/publication/improving_3d/</link><pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/improving_3d/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Asymmetric Cuts: Joint Image Labeling and Partitioning</title><link>https://example.com/publication/asymetric_cuts/</link><pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/asymetric_cuts/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Fusion moves for correlation clustering</title><link>https://example.com/publication/fusion_moves_for_correlation_clustering/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://example.com/publication/fusion_moves_for_correlation_clustering/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Parallel Multicut Segmentation via Dual Decomposition</title><link>https://example.com/publication/parallel_multicut/</link><pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/parallel_multicut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>MAP-inference on large scale higher-order discrete graphical models by fusion moves</title><link>https://example.com/publication/map_inference/</link><pubDate>Sat, 06 Sep 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/map_inference/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Cut, glue &amp; cut: A fast, approximate solver for multicut partitioning</title><link>https://example.com/publication/cut_glue_and_cut/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://example.com/publication/cut_glue_and_cut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>The Lazy Flipper: Efficient Depth-Limited Exhaustive Search in Discrete Graphical Models</title><link>https://example.com/publication/lazy_flipper/</link><pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate><guid>https://example.com/publication/lazy_flipper/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>OpenGM: A C++ library for discrete graphical models</title><link>https://example.com/publication/opengm/</link><pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate><guid>https://example.com/publication/opengm/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Probabilistic Image Segmentation with Closedness Constraints</title><link>https://example.com/publication/probabilistic_image_segmentation/</link><pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate><guid>https://example.com/publication/probabilistic_image_segmentation/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title/><link>https://example.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/admin/config.yml</guid><description/></item></channel></rss>

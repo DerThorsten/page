@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lifted Multicut | Dr. Thorsten Beier</title><link>https://example.com/tag/lifted-multicut/</link><atom:link href="https://example.com/tag/lifted-multicut/index.xml" rel="self" type="application/rss+xml"/><description>Lifted Multicut</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Lifted Multicut</title><link>https://example.com/tag/lifted-multicut/</link></image><item><title>nifty</title><link>https://example.com/project/nifty/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
+&lt;ul>
+&lt;li>graph based image processing&lt;/li>
+&lt;li>multicut objective&lt;/li>
+&lt;li>lifted multicut objective&lt;/li>
+&lt;li>agglomerative clustering&lt;/li>
+&lt;/ul>
+&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item></channel></rss>
