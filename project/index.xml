@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/project/</link><atom:link href="https://derthorsten.github.io/page/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://derthorsten.github.io/page/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://derthorsten.github.io/page/project/</link></image><item><title>JupyterLite</title><link>https://derthorsten.github.io/page/project/emscripten-forge/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/emscripten-forge/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/project/</link><atom:link href="https://derthorsten.github.io/page/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://derthorsten.github.io/page/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://derthorsten.github.io/page/project/</link></image><item><title>Emscripten-Forge</title><link>https://derthorsten.github.io/page/project/emscripten-forge/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/emscripten-forge/</guid><description>&lt;p>Emscripten-forge is a conda-forge channel which provides packages for the &lt;code>wasm&lt;/code> / &lt;code>emscripten-32&lt;/code> platform.&lt;/p></description></item><item><title>xeus-lite</title><link>https://derthorsten.github.io/page/project/xeus-lite/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
 &lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
 width="100%"
 height="500px"
->&lt;/iframe></description></item><item><title>nifty</title><link>https://derthorsten.github.io/page/project/nifty/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
+>&lt;/iframe></description></item><item><title>OpenGM</title><link>https://derthorsten.github.io/page/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/opengm/</guid><description>&lt;p>OpenGM is a C++ template library for discrete factor graph models and distributive operations on these models.
+I used to work a lot on OpenGM when I was an undergrad bachelor student.
+Currently OpenGM in unmaintained.
+While OpenGM covers a state-of-the-art optimization and inference algorithms beyond message passing, the code is really really messy.&lt;/p></description></item><item><title>nifty</title><link>https://derthorsten.github.io/page/project/nifty/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
 &lt;ul>
 &lt;li>graph based image processing&lt;/li>
 &lt;li>multicut objective&lt;/li>
 &lt;li>lifted multicut objective&lt;/li>
 &lt;li>agglomerative clustering&lt;/li>
 &lt;/ul>
-&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item><item><title>OpenGM</title><link>https://derthorsten.github.io/page/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/opengm/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
-&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item><item><title>pyb2d</title><link>https://derthorsten.github.io/page/project/pyb2d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/pyb2d/</guid><description>&lt;iframe src="https://derthorsten.github.io/pyb2d-wasm-demo"
 width="100%"
 height="500px"
->&lt;/iframe></description></item><item><title>pyb2d</title><link>https://derthorsten.github.io/page/project/pyb2d/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/pyb2d/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
-&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-width="100%"
-height="500px"
->&lt;/iframe></description></item><item><title>xeus-lite</title><link>https://derthorsten.github.io/page/project/xeus-lite/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+>&lt;/iframe>
+&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
 &lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
 width="100%"
 height="500px"

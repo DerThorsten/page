@@ -1,10 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/</link><atom:link href="https://derthorsten.github.io/page/index.xml" rel="self" type="application/rss+xml"/><description>Dr. Thorsten Beier</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://derthorsten.github.io/page/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/</link></image><item><title>Mamba meets JupyterLite</title><link>https://derthorsten.github.io/page/post/mamba-meets-jupyterlite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/mamba-meets-jupyterlite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8" target="_blank" rel="noopener">https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8&lt;/a>&lt;/p></description></item><item><title>Xeus-Lite</title><link>https://derthorsten.github.io/page/post/xeus-lite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/xeus-lite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/xeus-lite-379e96bb199d" target="_blank" rel="noopener">https://blog.jupyter.org/xeus-lite-379e96bb199d&lt;/a>&lt;/p></description></item><item><title>Jupyter-Games</title><link>https://derthorsten.github.io/page/post/jupyter-games/</link><pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/jupyter-games/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/jupyter-games-cda20dc15a21" target="_blank" rel="noopener">https://blog.jupyter.org/jupyter-games-cda20dc15a21&lt;/a>&lt;/p></description></item><item><title>JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python</title><link>https://derthorsten.github.io/page/talk/jupyterlite-jupyter-webassembly-python/</link><pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/talk/jupyterlite-jupyter-webassembly-python/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/</link><atom:link href="https://derthorsten.github.io/page/index.xml" rel="self" type="application/rss+xml"/><description>Dr. Thorsten Beier</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 11:00:00 +0000</lastBuildDate><image><url>https://derthorsten.github.io/page/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Dr. Thorsten Beier</title><link>https://derthorsten.github.io/page/</link></image><item><title>EuroSciPy 2022 - Interactive Data Science in the browser with JupyterLite and Emscripten Forge</title><link>https://derthorsten.github.io/page/talk/euroscipy-2022-interactive-data-science-in-the-browser-with-jupyterlite-and-emscripten-forge/</link><pubDate>Mon, 29 Aug 2022 11:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/talk/euroscipy-2022-interactive-data-science-in-the-browser-with-jupyterlite-and-emscripten-forge/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Slides can be added in a few ways: --></description></item><item><title>From Jupyter to the Moon</title><link>https://derthorsten.github.io/page/post/from-jupyter-to-the-moon/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/from-jupyter-to-the-moon/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8" target="_blank" rel="noopener">https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8&lt;/a>&lt;/p></description></item><item><title>Ilastik: interactive machine learning for (bio) image analysis</title><link>https://derthorsten.github.io/page/publication/ilastik/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/ilastik/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;!-- Slides can be added in a few ways: --></description></item><item><title>Mamba meets JupyterLite</title><link>https://derthorsten.github.io/page/post/mamba-meets-jupyterlite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/mamba-meets-jupyterlite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8" target="_blank" rel="noopener">https://blog.jupyter.org/mamba-meets-jupyterlite-88ef49ac4dc8&lt;/a>&lt;/p></description></item><item><title>Xeus-Lite</title><link>https://derthorsten.github.io/page/post/xeus-lite/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/xeus-lite/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/xeus-lite-379e96bb199d" target="_blank" rel="noopener">https://blog.jupyter.org/xeus-lite-379e96bb199d&lt;/a>&lt;/p></description></item><item><title>Emscripten-Forge</title><link>https://derthorsten.github.io/page/project/emscripten-forge/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/emscripten-forge/</guid><description>&lt;p>Emscripten-forge is a conda-forge channel which provides packages for the &lt;code>wasm&lt;/code> / &lt;code>emscripten-32&lt;/code> platform.&lt;/p></description></item><item><title>Jupyter-Games</title><link>https://derthorsten.github.io/page/post/jupyter-games/</link><pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/jupyter-games/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/jupyter-games-cda20dc15a21" target="_blank" rel="noopener">https://blog.jupyter.org/jupyter-games-cda20dc15a21&lt;/a>&lt;/p></description></item><item><title>JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python</title><link>https://derthorsten.github.io/page/talk/jupyterlite-jupyter-webassembly-python/</link><pubDate>Fri, 29 Oct 2021 11:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/talk/jupyterlite-jupyter-webassembly-python/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Slides can be added in a few ways: --></description></item><item><title>From Jupyter to the Moon</title><link>https://derthorsten.github.io/page/post/from-jupyter-to-the-moon/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/post/from-jupyter-to-the-moon/</guid><description>&lt;p>This blog post has been published on the jupyter blog: &lt;a href="https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8" target="_blank" rel="noopener">https://blog.jupyter.org/from-jupyter-to-the-moon-2e432df402c8&lt;/a>&lt;/p></description></item><item><title>xeus-lite</title><link>https://derthorsten.github.io/page/project/xeus-lite/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item><item><title>Ilastik: interactive machine learning for (bio) image analysis</title><link>https://derthorsten.github.io/page/publication/ilastik/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/ilastik/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -189,30 +199,10 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>JupyterLite</title><link>https://derthorsten.github.io/page/project/emscripten-forge/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/emscripten-forge/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
-&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-width="100%"
-height="500px"
->&lt;/iframe></description></item><item><title>nifty</title><link>https://derthorsten.github.io/page/project/nifty/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
-&lt;ul>
-&lt;li>graph based image processing&lt;/li>
-&lt;li>multicut objective&lt;/li>
-&lt;li>lifted multicut objective&lt;/li>
-&lt;li>agglomerative clustering&lt;/li>
-&lt;/ul>
-&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item><item><title>OpenGM</title><link>https://derthorsten.github.io/page/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/opengm/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
-&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-width="100%"
-height="500px"
->&lt;/iframe></description></item><item><title>pyb2d</title><link>https://derthorsten.github.io/page/project/pyb2d/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/pyb2d/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
-&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-width="100%"
-height="500px"
->&lt;/iframe></description></item><item><title>xeus-lite</title><link>https://derthorsten.github.io/page/project/xeus-lite/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/xeus-lite/</guid><description>&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
-&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-width="100%"
-height="500px"
->&lt;/iframe></description></item><item><title>Improving 3D EM data segmentation by joint optimization over boundary evidence and biological priors</title><link>https://derthorsten.github.io/page/publication/improving_3d/</link><pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/improving_3d/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>OpenGM</title><link>https://derthorsten.github.io/page/project/opengm/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/opengm/</guid><description>&lt;p>OpenGM is a C++ template library for discrete factor graph models and distributive operations on these models.
+I used to work a lot on OpenGM when I was an undergrad bachelor student.
+Currently OpenGM in unmaintained.
+While OpenGM covers a state-of-the-art optimization and inference algorithms beyond message passing, the code is really really messy.&lt;/p></description></item><item><title>Improving 3D EM data segmentation by joint optimization over boundary evidence and biological priors</title><link>https://derthorsten.github.io/page/publication/improving_3d/</link><pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/improving_3d/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -245,7 +235,14 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title>Parallel Multicut Segmentation via Dual Decomposition</title><link>https://derthorsten.github.io/page/publication/parallel_multicut/</link><pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/parallel_multicut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+--></description></item><item><title>nifty</title><link>https://derthorsten.github.io/page/project/nifty/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/nifty/</guid><description>&lt;p>Nifty is a C++ library for:&lt;/p>
+&lt;ul>
+&lt;li>graph based image processing&lt;/li>
+&lt;li>multicut objective&lt;/li>
+&lt;li>lifted multicut objective&lt;/li>
+&lt;li>agglomerative clustering&lt;/li>
+&lt;/ul>
+&lt;p>I implemented nifty when I did my PhD since my research was focused on the topics above.&lt;/p></description></item><item><title>Parallel Multicut Segmentation via Dual Decomposition</title><link>https://derthorsten.github.io/page/publication/parallel_multicut/</link><pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/publication/parallel_multicut/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -311,4 +308,12 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---></description></item><item><title/><link>https://derthorsten.github.io/page/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/admin/config.yml</guid><description/></item></channel></rss>
+--></description></item><item><title/><link>https://derthorsten.github.io/page/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/admin/config.yml</guid><description/></item><item><title>pyb2d</title><link>https://derthorsten.github.io/page/project/pyb2d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://derthorsten.github.io/page/project/pyb2d/</guid><description>&lt;iframe src="https://derthorsten.github.io/pyb2d-wasm-demo"
+width="100%"
+height="500px"
+>&lt;/iframe>
+&lt;p>The demo below might not work in an incognito/private browser tab:&lt;/p>
+&lt;iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
+width="100%"
+height="500px"
+>&lt;/iframe></description></item></channel></rss>
