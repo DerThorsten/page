@@ -1,9 +1,11 @@
 ---
-title: JupyterLite
-summary: An example of using the in-built project page.
+title: Emscripten-Forge
+summary: A conda channel for the `emscripten-32` platform
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - emscripten-forge
+  - wasm
+  - conda-forge
+date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -17,17 +19,8 @@ links:
   - icon: gitub
     icon_pack: fab
     name: code
-    url: https://github.com/pyb2d/pyb2d
+    url: https://github.com/emscripten-forge/recipes
 
-  - icon: jupyter
-    icon_pack: custom
-    name: Try in JupyterLite
-    url: https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb
-
-  - icon: jupyter
-    icon_pack: custom
-    name: Try in Jupyter
-    url: https://mybinder.org/v2/gh/pyb2d/pyb2d/main?urlpath=/lab/tree/examples/jupyter_integration.ipynb
 
 url_code: ''
 url_pdf: ''
@@ -43,9 +36,5 @@ url_video: ''
 ---
 
 
-The demo below might not work in an incognito/private browser tab:
-<iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-  width="100%"
-  height="500px"
-></iframe>
+Emscripten-forge is a conda-forge channel which provides packages for the `wasm` / `emscripten-32` platform.
 

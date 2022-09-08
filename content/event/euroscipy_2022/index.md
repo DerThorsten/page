@@ -1,8 +1,8 @@
 ---
-title: "JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python"
+title: "EuroSciPy 2022 - Interactive Data Science in the browser with JupyterLite and Emscripten Forge"
 
-event: PyData global2021 Conference
-event_url: https://pydata.org/global2021/schedule/presentation/113/jupyterlite-jupyter-webassembly-python/
+event: euroscipy 2022
+event_url: https://www.euroscipy.org/2022/
 
 # location: Wowchemy HQ
 # address:
@@ -19,14 +19,14 @@ JupyterLite enables data science and interactive computing with the PyData scien
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-10-29T11:00:00Z'
-date_end: '2021-10-29T11:30:00Z'
+date: '2022-08-29T11:00:00Z'
+date_end: '2022-09-02T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2021-10-29T11:00:00Z'
+publishDate: '2022-08-29T11:00:00Z'
 
-authors: [Jeremy Tuloup, Madhur Tandon, Martin Renou, admin]
+authors: [admin, Jeremy Tuloup, Martin RenouThorsten Beier, ]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -41,10 +41,10 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com/jtpio/euroscipy-2022-jupyterlite-emscripten-forge'
 url_pdf: ''
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=EzclRzL8rt0'
+url_slides: 'https://euroscipy-2022-jupyterlite-emscripten-forge.readthedocs.io/en/latest/lite/lab/index.html?path=presentation.ipynb'
+# url_video: 'https://www.youtube.com/watch?v=EzclRzL8rt0'
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.

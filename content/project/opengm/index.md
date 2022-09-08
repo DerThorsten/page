@@ -2,7 +2,7 @@
 title: OpenGM
 summary: An C++ library for discrete optimization
 tags:
-  - Deep Learning
+  - discrete optimization
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -17,20 +17,10 @@ links:
   - icon: gitub
     icon_pack: fab
     name: code
-    url: https://github.com/pyb2d/pyb2d
-
-  - icon: jupyter
-    icon_pack: custom
-    name: Try in JupyterLite
-    url: https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb
-
-  - icon: jupyter
-    icon_pack: custom
-    name: Try in Jupyter
-    url: https://mybinder.org/v2/gh/pyb2d/pyb2d/main?urlpath=/lab/tree/examples/jupyter_integration.ipynb
+    url: https://github.com/opengm/opengm
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'http://www.andres.sc/publications/opengm-2.0.2-beta-manual.pdf'
 url_slides: ''
 url_video: ''
 
@@ -43,9 +33,7 @@ url_video: ''
 ---
 
 
-The demo below might not work in an incognito/private browser tab:
-<iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"
-  width="100%"
-  height="500px"
-></iframe>
-
+OpenGM is a C++ template library for discrete factor graph models and distributive operations on these models. 
+I used to work a lot on OpenGM when I was an undergrad bachelor student.
+Currently OpenGM in unmaintained.
+While OpenGM covers a state-of-the-art optimization and inference algorithms beyond message passing, the code is really really messy.

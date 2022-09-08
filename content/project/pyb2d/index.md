@@ -1,9 +1,9 @@
 ---
 title: pyb2d
-summary: An example of using the in-built project page.
+summary: Python bindings for the Box2D library
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-05-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -41,6 +41,18 @@ url_video: ''
 # #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+
+
+
+<iframe src="https://derthorsten.github.io/pyb2d-wasm-demo"
+  width="100%"
+  height="500px"
+></iframe>
+
+
+
+
 The demo below might not work in an incognito/private browser tab:
 
 <iframe src="https://jupyterlite.github.io/demo/lab?path=pyolite%2Fpyb2d%2Fnewtons_cradle.ipynb"

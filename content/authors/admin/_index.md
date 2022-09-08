@@ -14,7 +14,7 @@ organizations:
     url: https://www.quantstack.net
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include open source software, image processing and discrete optimization.
 
 # Interests to show in About widget
 interests:
@@ -71,9 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Thorsten Beier is a Scientific Software Developer at QuantStack. He got his PhD at the University of Heidelberg (Germany) on Multicut Algorithms for Neurite Segmentation.
-
-Thorsten is contributed to various open source projects for image processing and discrete optimization. He is coauthor of OpenGM2, a library for inference in discrete graphical models, author of Nifty, a library for graph based image processing and contributor to VIGRA, a generic image processing library.
+I am Thorsten Beier, a Scientific Software Developer at QuantStack. I got his PhD at the University of Heidelberg (Germany) on Multicut Algorithms for Neurite Segmentation.
+I contributed to various open source projects for image processing and discrete optimization. I am coauthor of OpenGM2, a library for inference in discrete graphical models, author of Nifty, a library for graph based image processing and contributor to VIGRA, a generic image processing library.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

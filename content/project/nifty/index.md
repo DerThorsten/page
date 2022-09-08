@@ -6,7 +6,8 @@ tags:
   - Multicut
   - Lifted Multicut
   - Agglomerative Clustering
-date: '2016-04-27T00:00:00Z'
+  - C++
+date: '2015-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
